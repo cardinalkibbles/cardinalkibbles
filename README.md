@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Tyler Giles</h1>
-<h3 align="center">A passionate frontend developer from Oregon</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cardinalkibbles" alt="cardinalkibbles" /></a> </p>
+<h1 align="center">Hi 👋, I'm Tyler Giles</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=237BA1&background=FFFFFF00&center=true&vCenter=true&width=500&height=80&lines=Digital+Craftsman;Django+Enthusiast;Ready+to+Make+a+Difference" alt="Typing SVG" /></a>
+</p>
+<h3></h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+- 🔭 I’m currently working on **Meteorite-Tracker**
+
+- 👯 I’m looking to collaborate on **any interesting projects**
+
+- 💬 Ask me about **Django and Bootstrap**
 
 - 📫 How to reach me **Tylerjaygiles@gmail.com**
 
